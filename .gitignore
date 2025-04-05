@@ -28,3 +28,9 @@ dist/
 
 # macOS Trash folder
 .Trash/
+
+# Environment variables
+.env
+
+# Generated files
+screenshots/
